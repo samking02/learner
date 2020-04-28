@@ -1,0 +1,26 @@
+.main-nav{
+    display: inline;
+}
+.top-list{
+    display: inline;
+}
+.creative{
+    float: left;
+}
+.find{
+    float: right;
+}
+.header{
+    background-image: url("images/background.jpg");
+    background-position: cover;
+    padding: 50px;
+    margin-bottom: 0;
+}
+.sub-header{
+    background-color: rgba(212, 149, 31, 0.5);
+    margin-top: 0;
+    text-decoration: no;
+}
+.ul{
+    margin-top: 0;
+}
