@@ -1,0 +1,70 @@
+.nav-ul{
+    display: inline;
+    text-decoration: none;
+    margin: 0;
+
+}
+.nav-ul img{
+    height: 15px;
+    display: inline;
+    margin-top: 5px;
+}
+.nav-ul button{
+    text-decoration: none;
+    display: inline;
+    float: right;
+    margin-left: 5px;
+}
+.two{
+    display: inline;
+    float: left;
+    margin-top: 0px;
+}
+.mag{
+    display: inline;
+}
+.btn-one{
+    color: white;
+    background-color: rgb(97, 74, 199);
+    padding: none;
+    border: 1px rgb(97, 74, 199) solid ;
+}
+.btn-two{
+    color: gray;
+    background-color: white;
+    border: 1px grey solid ;
+}
+
+header{
+    background-image: url("images/yellow.jpg");
+    background-size: cover;
+    padding: 30px;
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    margin-top: 10px;
+}
+ header h1{
+     margin: 0;
+     padding: 0;
+ }
+ .small{
+     font-size: 10px;
+     margin-bottom: 20px;
+ }
+ .footer{
+     text-align: center;
+ }
+ .love{
+     text-align: center;
+     height: 180px;
+     border-radius: 15%;
+ }
+ .footer span{
+     display: block;
+     font-display: bold;
+ }
+ a{
+     text-decoration: none;
+     color: white;
+ }
